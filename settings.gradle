@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='Retrofit_URLMANIPULATION_QUERY_QUERYMAP_URL'
