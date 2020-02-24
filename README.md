@@ -1,5 +1,5 @@
 # Retrofit_URLMANIPULATION_QUERY_QUERYMAP_URL
-Retrofit Tutorial Part 2 - URL MANIPULATION: @QUERY @QUERYMAP
+Retrofit URL MANIPULATION: @QUERY @QUERYMAP
 
 
 With the @Query annotation, we can also pass arguments that Retrofit will append to the URL as query strings with the correct syntax (question mark, ampersand signs, equal signs...). We can declare and pass single values, we can pass multiple values for the same parameter in form of a List, array or varargs, or we can define a @QueryMap where we can pass any combination of parameters in form of a Map. 
